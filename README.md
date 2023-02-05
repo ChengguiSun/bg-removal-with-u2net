@@ -24,7 +24,7 @@ docker run --rm -p 8080:80 docker.io/luukio/u2net-bg-removal
 
 # Development
 
-- Clone this repository: `git clone https://github.com/ideo/bg-removal-with-usenet`
+- Clone this repository: `git clone https://github.com/ChengguiSun/bg-removal-with-u2net.git`
 - Go into the cloned directory: `cd bg-removal-with-usenet`
 - Clone the official [U^2-Net repository](https://github.com/NathanUA/U-2-Net)
 - Download the pretrained model [u2net.pth](https://drive.google.com/file/d/1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ/view)
